@@ -14,7 +14,7 @@ else:
 
 homework = input ("Do you have homework?(yes or no)")
 
-#you also have o chek if you have homework today and if you've already done it
+#you also have to chek if you have homework today and if you've already done it
 
 if homework == "yes":
     home = input("Have you already done it?(yes or no)")
